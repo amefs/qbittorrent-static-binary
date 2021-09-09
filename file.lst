@@ -26,3 +26,6 @@ armhf         4.3.6              1.2.14            qbittorrent-nox.qbit4.3.6_lt1
 amd64         4.3.7              1.2.14            qbittorrent-nox.qbit4.3.7_lt1.2.14.amd64          15610b9410aa67a48419d2e44057c57b        
 arm64         4.3.7              1.2.14            qbittorrent-nox.qbit4.3.7_lt1.2.14.arm64          52e13137feaf9e725e7c37e8eac67fa3        
 armhf         4.3.7              1.2.14            qbittorrent-nox.qbit4.3.7_lt1.2.14.armhf          c2bb3badc2c0f31051e7b7d45d6a91fc        
+amd64         4.3.8              1.2.14            qbittorrent-nox.qbit4.3.8_lt1.2.14.amd64          9c1970cedfc9605a630de456d06e7bdf        
+arm64         4.3.8              1.2.14            qbittorrent-nox.qbit4.3.8_lt1.2.14.arm64          8b91aa28c9723dbd311d35246427eb7e        
+armhf         4.3.8              1.2.14            qbittorrent-nox.qbit4.3.8_lt1.2.14.armhf          07144fb52caa5824bf5eefde0b7d87a4        
