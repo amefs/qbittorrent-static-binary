@@ -44,3 +44,15 @@ armhf         4.4.2              2.0.5             qbittorrent-nox.qbit4.4.2_lt2
 amd64         4.4.3.1            2.0.6             qbittorrent-nox.qbit4.4.3.1_lt2.0.6.amd64         dca23788b617876ca4be1c270be32176        
 arm64         4.4.3.1            2.0.6             qbittorrent-nox.qbit4.4.3.1_lt2.0.6.arm64         f7a53062661d68380d93c42abb97082a        
 armhf         4.4.3.1            2.0.6             qbittorrent-nox.qbit4.4.3.1_lt2.0.6.armhf         f83e1514d7aca4e86c1fd99af3bcce15        
+amd64         4.4.4              1.2.17            qbittorrent-nox.qbit4.4.4_lt1.2.17.amd64          8c1dcc0eac6056b254393990e9a17b17        
+arm64         4.4.4              1.2.17            qbittorrent-nox.qbit4.4.4_lt1.2.17.arm64          d9b81fbe2c54290a6fc05156892fcabb        
+armhf         4.4.4              1.2.17            qbittorrent-nox.qbit4.4.4_lt1.2.17.armhf          bd5bb9cc1d6cc690d752d78ec86dfb49        
+amd64         4.4.4              2.0.7             qbittorrent-nox.qbit4.4.4_lt2.0.7.amd64           2d31f36ce1571617e247a896256087f8        
+arm64         4.4.4              2.0.7             qbittorrent-nox.qbit4.4.4_lt2.0.7.arm64           a1db5947dcddda899341eba0ef66c8d6        
+armhf         4.4.4              2.0.7             qbittorrent-nox.qbit4.4.4_lt2.0.7.armhf           25354f44feefc7c1717a02f2a4eadc8c        
+amd64         4.4.5              1.2.17            qbittorrent-nox.qbit4.4.5_lt1.2.17.amd64          983783efd376a3f6392f7973d52e807b        
+arm64         4.4.5              1.2.17            qbittorrent-nox.qbit4.4.5_lt1.2.17.arm64          4afd987f44ac1823c8d2071df25d5a37        
+armhf         4.4.5              1.2.17            qbittorrent-nox.qbit4.4.5_lt1.2.17.armhf          e3139c6b37b27af273b08e96b461f405        
+amd64         4.4.5              2.0.7             qbittorrent-nox.qbit4.4.5_lt2.0.7.amd64           0e61a9c4f88a20019ce59debd9bc8caa        
+arm64         4.4.5              2.0.7             qbittorrent-nox.qbit4.4.5_lt2.0.7.arm64           b02f212d9bc5c8bd39ef82b49e35caad        
+armhf         4.4.5              2.0.7             qbittorrent-nox.qbit4.4.5_lt2.0.7.armhf           ee1e0eb60b1467e97cb8b1b1df55760d        
